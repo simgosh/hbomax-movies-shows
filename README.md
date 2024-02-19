@@ -11,4 +11,9 @@ Tasks :
 
 ![image](https://github.com/simgosh/hbomax.py/assets/158474992/b95508dc-bc70-47f5-98c3-7f011a73431d)
 
+![image](https://github.com/simgosh/hbomax.py/assets/158474992/d33f176b-5924-455d-b619-52de1b32681c)
+
+![image](https://github.com/simgosh/hbomax.py/assets/158474992/a871759d-a581-43fa-8f69-2f6a3a7ef722)
+
+![image](https://github.com/simgosh/hbomax.py/assets/158474992/c72ce283-2712-40c4-813d-7701e0073e66)
 
